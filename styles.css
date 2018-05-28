@@ -1,0 +1,34 @@
+/* add your CSS here */
+#interesting-fact{
+	font-style: italic;
+}
+body{
+  /*border: 1px solid;*/
+}
+
+li{
+	font-weight: bold;
+	list-style: none;
+}
+
+#imgId{
+	width: 300px;
+}
+
+#imgId{
+ 
+ padding: 0px;
+}
+
+.animal-info{
+	border: 1px solid gray;
+	padding:0px;
+}
+
+.animal-name{
+	padding: 0px;
+}
+
+#container{
+	border: 1px solid gray;
+}
