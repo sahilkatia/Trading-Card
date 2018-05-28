@@ -15,10 +15,7 @@ li{
 	width: 300px;
 }
 
-#imgId{
- 
- padding: 0px;
-}
+
 
 .animal-info{
 	border: 1px solid gray;
@@ -31,4 +28,6 @@ li{
 
 #container{
 	border: 1px solid gray;
+	padding: 5px;
 }
+
